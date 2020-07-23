@@ -1,16 +1,16 @@
-### Hi there 👋
+<html>
+<body>
+<p><font face="Verdana">
+My background combines IT & HR. As Recruiter IT I knew IT World and I loved it, so I studied Fullstack Development, Designer UX/UI and IT Career. My programming languages are JS, NodeJS, Ajax(DOM, HTML, CSS, JSON), Reactjs, Redux, Github, PostgreSQL. 
 
-<!--
-**haroldognjunior/haroldognjunior** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I would love to talk anything related with IT.
+</font>
+</p>
 
-Here are some ideas to get you started:
+<a href="https://www.linkedin.com/in/j%C3%BAnior-nogueira-34826261/"> 
+<img alt="LinkedIn" src="https://www.paredro.com/wp-content/uploads/2019/01/LogoDelDi%CC%81a-LinkedIn-un-emblema-que-esta%CC%81-22dentro22.jpg"
+         width=150" height="50"></img></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+</body>
+</html>
