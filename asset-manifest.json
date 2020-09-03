@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/haroldognjunior/static/css/main.051185ad.chunk.css",
+    "main.js": "/haroldognjunior/static/js/main.0c89e188.chunk.js",
+    "main.js.map": "/haroldognjunior/static/js/main.0c89e188.chunk.js.map",
+    "runtime-main.js": "/haroldognjunior/static/js/runtime-main.cfbe9d1a.js",
+    "runtime-main.js.map": "/haroldognjunior/static/js/runtime-main.cfbe9d1a.js.map",
+    "static/js/2.41cb7e4d.chunk.js": "/haroldognjunior/static/js/2.41cb7e4d.chunk.js",
+    "static/js/2.41cb7e4d.chunk.js.map": "/haroldognjunior/static/js/2.41cb7e4d.chunk.js.map",
+    "index.html": "/haroldognjunior/index.html",
+    "precache-manifest.daa55a7171e74b14a4b82a7e48dcc022.js": "/haroldognjunior/precache-manifest.daa55a7171e74b14a4b82a7e48dcc022.js",
+    "service-worker.js": "/haroldognjunior/service-worker.js",
+    "static/css/main.051185ad.chunk.css.map": "/haroldognjunior/static/css/main.051185ad.chunk.css.map",
+    "static/js/2.41cb7e4d.chunk.js.LICENSE.txt": "/haroldognjunior/static/js/2.41cb7e4d.chunk.js.LICENSE.txt",
+    "static/media/skill.png": "/haroldognjunior/static/media/skill.88d5128d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfbe9d1a.js",
+    "static/js/2.41cb7e4d.chunk.js",
+    "static/css/main.051185ad.chunk.css",
+    "static/js/main.0c89e188.chunk.js"
+  ]
+}
