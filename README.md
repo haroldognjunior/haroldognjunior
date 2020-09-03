@@ -7,7 +7,7 @@ I would love to talk anything related with IT.
 </font>
 </p>
 
-<a href="https://www.linkedin.com/in/j%C3%BAnior-nogueira-34826261/"> 
+<a href="https://www.linkedin.com/in/hgnjr/"> 
 <img alt="LinkedIn" src="https://www.paredro.com/wp-content/uploads/2019/01/LogoDelDi%CC%81a-LinkedIn-un-emblema-que-esta%CC%81-22dentro22.jpg"
          width=150" height="50"></img></a>
 
