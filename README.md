@@ -1,7 +1,7 @@
 <html>
 <body>
 <p><font face="Verdana">
-My background combines IT & HR. As Recruiter IT I knew IT World and I loved it, so I studied Fullstack Development, Designer UX/UI and IT Career. My programming languages are JS, NodeJS, Ajax(DOM, HTML, CSS, JSON), Reactjs, Redux, Github, PostgreSQL. 
+My background combines IT & HR. As Recruiter IT I knew IT World and I loved it, so I studied Fullstack Development, Designer UX/UI and IT Career. JS, NodeJS, Ajax(DOM, HTML, CSS, JSON), Reactjs, Redux, Github, PostgreSQL. 
 
 I would love to talk anything related with IT.
 </font>
