@@ -1,38 +1,132 @@
-.App {
-  text-align: center;
+body {
+    background-color: #093145;
+    margin: 0px;
+    padding: 0px;
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
+h1, h3 {
+    color: #eee;
+    font: monospace;
 }
 
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
+.card h3, h4, h5 {
+    color: black;
+    font: monospace;
+} 
+
+.card h2 {
+  color: gray;
+    font: monospace;
+}
+
+img {
+  width: 30%;
+  height: 30%;
+}
+
+.app {
+    height: 100%;
+    justify-content: center;
+    align-items: auto;
+    text-align: center;
+    text-emphasis-color: #eee;
   }
-}
 
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
-  color: white;
-}
-
-.App-link {
-  color: #61dafb;
-}
-
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
+  .card {
+    background: #eee;
+    width: auto;
+    height: auto;
+    display: flex;
+    align-items: left;
+    text-align: left;
+    flex-direction: column;
+    border-radius: 10px;
+    padding: 5%;
+    box-shadow: 10px 10px;
+    align-self: start;
+    align-content: auto;
   }
-  to {
-    transform: rotate(360deg);
+
+  #skill {
+    display: absolute;
+    margin-top: -14%;
+    margin-left: 50%;
   }
-}
+
+    
+  @keyframes rotate {
+    0% {
+      transform: rotate(0deg) translate3d(0, 0, 0);
+    }
+    25% {
+      transform: rotate(3deg) translate3d(0, 0, 0);
+    }
+    50% {
+      transform: rotate(-3deg) translate3d(0, 0, 0);
+    }
+    75% {
+      transform: rotate(1deg) translate3d(0, 0, 0);
+    }
+    100% {
+      transform: rotate(0deg) translate3d(0, 0, 0);
+    }
+  }
+    
+  @keyframes storm {
+    0% {
+      transform: translate3d(0, 0, 0) translateZ(0);
+    }
+    25% {
+      transform: translate3d(4px, 0, 0) translateZ(0);
+    }
+    50% {
+      transform: translate3d(-3px, 0, 0) translateZ(0);
+    }
+    75% {
+      transform: translate3d(2px, 0, 0) translateZ(0);
+    }
+    100% {
+      transform: translate3d(0, 0, 0) translateZ(0);
+    }
+  }  
+  
+  @media only screen and (max-width: 600px) {
+    .card {
+        height: 30%;
+    }
+  }
+
+.social-container {
+    /* background: #eee; */
+    padding: 1px 1px;
+    margin: 0 auto;
+    text-align: center;
+    align-content: center;
+  }
+
+a.social {
+    margin: 0 1rem;
+    align-items: center;
+    transition: transform 250ms;
+    display: inline-block;
+  }
+
+a.twitter {
+    color: #eee;
+  }
+
+a.linkedin {
+    color: #eee;
+  }
+
+a.github {
+    color: #eee;
+  }
+
+a.medium {
+    color:#eee;
+  }
+
+a.social:hover {
+    transform: translateY(-2px);
+  }
