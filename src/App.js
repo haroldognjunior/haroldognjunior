@@ -32,7 +32,7 @@ class App extends React.Component {
         <div class="container-fluid p-0">
         <section class="resume-section" id="about">
                 <div class="resume-section-content">
-                <p class="line anim-typewriter">Welcome to my personal portfolio <span style={{color:"#bd5d38"}}>&#9786; </span> </p>
+                <p class="line anim-typewriter">Welcome to my online resume <span style={{color:"#bd5d38"}}>&#9786; </span> </p>
                     <h1 class="mb-0">
                         Júnior
                         <span class="text-primary">Nogueira</span>
