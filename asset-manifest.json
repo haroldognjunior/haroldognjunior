@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/haroldognjunior/static/css/main.25a6a431.chunk.css",
-    "main.js": "/haroldognjunior/static/js/main.5dc0c3ac.chunk.js",
-    "main.js.map": "/haroldognjunior/static/js/main.5dc0c3ac.chunk.js.map",
+    "main.css": "/haroldognjunior/static/css/main.1eaa5a7a.chunk.css",
+    "main.js": "/haroldognjunior/static/js/main.e882e3da.chunk.js",
+    "main.js.map": "/haroldognjunior/static/js/main.e882e3da.chunk.js.map",
     "runtime-main.js": "/haroldognjunior/static/js/runtime-main.cfbe9d1a.js",
     "runtime-main.js.map": "/haroldognjunior/static/js/runtime-main.cfbe9d1a.js.map",
     "static/js/2.4c5c8258.chunk.js": "/haroldognjunior/static/js/2.4c5c8258.chunk.js",
     "static/js/2.4c5c8258.chunk.js.map": "/haroldognjunior/static/js/2.4c5c8258.chunk.js.map",
     "index.html": "/haroldognjunior/index.html",
-    "precache-manifest.0957296b81c1e2a52481d23039027133.js": "/haroldognjunior/precache-manifest.0957296b81c1e2a52481d23039027133.js",
+    "precache-manifest.50bc299adb3af7d87fa17d29c74f38ad.js": "/haroldognjunior/precache-manifest.50bc299adb3af7d87fa17d29c74f38ad.js",
     "service-worker.js": "/haroldognjunior/service-worker.js",
-    "static/css/main.25a6a431.chunk.css.map": "/haroldognjunior/static/css/main.25a6a431.chunk.css.map",
+    "static/css/main.1eaa5a7a.chunk.css.map": "/haroldognjunior/static/css/main.1eaa5a7a.chunk.css.map",
     "static/js/2.4c5c8258.chunk.js.LICENSE.txt": "/haroldognjunior/static/js/2.4c5c8258.chunk.js.LICENSE.txt",
     "static/media/profile.jpg": "/haroldognjunior/static/media/profile.65fc5fd5.jpg",
     "static/media/skill.png": "/haroldognjunior/static/media/skill.88d5128d.png"
@@ -18,7 +18,7 @@
   "entrypoints": [
     "static/js/runtime-main.cfbe9d1a.js",
     "static/js/2.4c5c8258.chunk.js",
-    "static/css/main.25a6a431.chunk.css",
-    "static/js/main.5dc0c3ac.chunk.js"
+    "static/css/main.1eaa5a7a.chunk.css",
+    "static/js/main.e882e3da.chunk.js"
   ]
 }
