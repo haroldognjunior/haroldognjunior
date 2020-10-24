@@ -183,7 +183,7 @@ JAVASCRIPT, TYPESCRIPT, AJAX, DOM, HTML, CSS, JSON, REACTJS, REACT, REDUX, GRAPH
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Interests</h2>
-                    <p>Apart from being a web developer, I'm searching to move to Mexico.</p>
+                    <p>Apart from being a web developer, I'm planning to move to Mexico.</p>
                     <p class="mb-0"> TRAININGS <br />
                 
                 • Seminars in: JavaScript, Oracle, Linux, Project Management, Computer Security, Python, WEB Programming, Java, 2020. Educación IT - Argentina.
