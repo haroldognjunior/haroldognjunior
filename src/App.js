@@ -32,6 +32,7 @@ class App extends React.Component {
         <div class="container-fluid p-0">
         <section class="resume-section" id="about">
                 <div class="resume-section-content">
+                <p class="line anim-typewriter">Welcome to my personal portfolio <span style={{color:"#bd5d38"}}>&#9786; </span> </p>
                     <h1 class="mb-0">
                         Júnior
                         <span class="text-primary">Nogueira</span>
@@ -165,7 +166,7 @@ JAVASCRIPT, TYPESCRIPT, AJAX, DOM, HTML, CSS, JSON, REACTJS, REACT, REDUX, GRAPH
                         <li class="list-inline-item"><i class="fab fa-github"></i></li>
                         <li class="list-inline-item"><i class="fab fa-linux"></i></li>
                         <li>
-                        <img src={image} alt="image" />
+                        <img src={image} alt="" />
                         </li>
                     </ul>
                     <div class="subheading mb-3">Workflow</div>
