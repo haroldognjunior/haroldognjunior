@@ -14,16 +14,16 @@ export default function SocialFollow() {
       <h3 className = "heading">Find me</h3>
         <a href="https://www.linkedin.com/in/hgnjr/"
             className="linkedin social">
-            <FontAwesomeIcon icon={faLinkedin} size="2x" />
+            <FontAwesomeIcon color="#824027" icon={faLinkedin} size="2x" />
         </a>
         <a href="https://github.com/haroldognjunior" className="github social">
-            <FontAwesomeIcon icon={faGithub} size="2x" />
+            <FontAwesomeIcon color="#824027" icon={faGithub} size="2x" />
         </a>
         <a href="https://www.facebook.com/haroldo.junior.359/" className="twitter social">
-            <FontAwesomeIcon icon={faFacebook} size="2x" />
+            <FontAwesomeIcon color="#824027" icon={faFacebook} size="2x" />
         </a>
         <a href="https://medium.com/@haroldognjunior" className="medium social">
-            <FontAwesomeIcon icon={faMedium} size="2x" />
+            <FontAwesomeIcon color="#824027" icon={faMedium} size="2x" />
         </a>
     </div>
   );
