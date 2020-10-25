@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/haroldognjunior/static/css/main.1eaa5a7a.chunk.css",
-    "main.js": "/haroldognjunior/static/js/main.036f082c.chunk.js",
-    "main.js.map": "/haroldognjunior/static/js/main.036f082c.chunk.js.map",
+    "main.js": "/haroldognjunior/static/js/main.86241ce6.chunk.js",
+    "main.js.map": "/haroldognjunior/static/js/main.86241ce6.chunk.js.map",
     "runtime-main.js": "/haroldognjunior/static/js/runtime-main.cfbe9d1a.js",
     "runtime-main.js.map": "/haroldognjunior/static/js/runtime-main.cfbe9d1a.js.map",
     "static/js/2.2a5de27e.chunk.js": "/haroldognjunior/static/js/2.2a5de27e.chunk.js",
     "static/js/2.2a5de27e.chunk.js.map": "/haroldognjunior/static/js/2.2a5de27e.chunk.js.map",
     "index.html": "/haroldognjunior/index.html",
-    "precache-manifest.13bd8d5a039a57aff943a7cb799cbdb9.js": "/haroldognjunior/precache-manifest.13bd8d5a039a57aff943a7cb799cbdb9.js",
+    "precache-manifest.6ca85a71c62613d7ed2e5ff25c6fbb54.js": "/haroldognjunior/precache-manifest.6ca85a71c62613d7ed2e5ff25c6fbb54.js",
     "service-worker.js": "/haroldognjunior/service-worker.js",
     "static/css/main.1eaa5a7a.chunk.css.map": "/haroldognjunior/static/css/main.1eaa5a7a.chunk.css.map",
     "static/js/2.2a5de27e.chunk.js.LICENSE.txt": "/haroldognjunior/static/js/2.2a5de27e.chunk.js.LICENSE.txt",
@@ -19,6 +19,6 @@
     "static/js/runtime-main.cfbe9d1a.js",
     "static/js/2.2a5de27e.chunk.js",
     "static/css/main.1eaa5a7a.chunk.css",
-    "static/js/main.036f082c.chunk.js"
+    "static/js/main.86241ce6.chunk.js"
   ]
 }
