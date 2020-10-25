@@ -69,7 +69,7 @@ JAVASCRIPT, TYPESCRIPT, AJAX, DOM, HTML, CSS, JSON, REACTJS, REACT, REDUX, GRAPH
                         <div class="flex-grow-1">
                             <h3 class="mb-0">Full Stack Developer</h3>
                             <div class="subheading mb-3">ONG Protectora Sarmiento</div>
-                            <p>• App Development for ONG  providing information to the public and being able to collect donations, inputs, to be volunteers and people who wants to adopt the rescued animals as pets. <br />
+                            <p>• App Development for ONG  providing information to the public and being able to collect donations, inputs, to be volunteers and people who want to adopt the rescued animals as pets. <br />
                             • React redux and libraries use in frontend <br />
                             • Firebase connected through redux and integrations for storage and virtual wallet for donations.</p>
                         </div>
@@ -81,7 +81,7 @@ JAVASCRIPT, TYPESCRIPT, AJAX, DOM, HTML, CSS, JSON, REACTJS, REACT, REDUX, GRAPH
                             <div class="subheading mb-3">Henry</div>
                             <p>• E-commerce and digital wallet development with better code and practices. <br />
                             • SCRUM use with current daily with SCRUM Master. <br />
-                            • Tolerance to frustation development.<br />
+                            • Tolerance to frustration development.<br />
                             • Use with: JavaScript, NodeJS, Ajax, DOM, HTML, CSS, JSON, Reactjs, Redux, Github, PostgreSQL, Bootstrap, Redux, Expressjs, Sequelize. <br />
                             • Tools use: Visual Code Studio, Postman, Pgadmin, git bash.</p>
                         </div>
@@ -109,7 +109,7 @@ JAVASCRIPT, TYPESCRIPT, AJAX, DOM, HTML, CSS, JSON, REACTJS, REACT, REDUX, GRAPH
                             <div class="subheading mb-3">PROGRAMMING CAREER</div>
                             <h4>• Software developoment on web platforms in HTML, CSS and Java.
                             <br />• Databases configuration and implementation using SQL and Oracle.
-                            <br />• Evoluation the quality of the software through unit tests.
+                            <br />• Evolution of the quality of the software through unit tests.
                             <br />• Authentication implementation and configuration and access control services.
                             <br />• Software management life cycles with project management tools.
                             <br />• Software implementation development process in continuous integration systems.
@@ -183,7 +183,7 @@ JAVASCRIPT, TYPESCRIPT, AJAX, DOM, HTML, CSS, JSON, REACTJS, REACT, REDUX, GRAPH
             <section class="resume-section" id="interests">
                 <div class="resume-section-content">
                     <h2 class="mb-5">Interests</h2>
-                    <p>Apart from being a web developer, I'm designer UX/UI.</p>
+                    <p>Apart from being a web developer, I'm a designer UX/UI.</p>
                     <p class="mb-0"> TRAININGS <br />
                 
                 • Seminars in: JavaScript, Oracle, Linux, Project Management, Computer Security, Python, WEB Programming, Java, 2020. Educación IT - Argentina.
