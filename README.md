@@ -10,7 +10,7 @@ I would love to talk anything related with IT.
 
 <a href="https://haroldognjunior.github.io/portafolio/"> 
 <img alt="Portafolio" src="https://codecapsules.io/wp-content/uploads/2023/07/starter_template.png"
-         width="250" height="300"></img></a>
+         width="400" height="300"></img></a>
 
 <a href="https://www.linkedin.com/in/hgnjr/"> 
 <img alt="LinkedIn" src="https://www.paredro.com/wp-content/uploads/2019/01/LogoDelDi%CC%81a-LinkedIn-un-emblema-que-esta%CC%81-22dentro22.jpg"
